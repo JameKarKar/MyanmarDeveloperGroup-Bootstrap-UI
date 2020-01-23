@@ -1,0 +1,19 @@
+.english{
+    font-family: Cambria,Arial,SansSerif,"Times New Roman";
+}
+.section-bg{
+    background-image: url("../imgs/bg.png");
+}
+.bigTitle{
+    font-family: "Times New Roman" , SansSerif , Arial;
+    color : #830a00;
+}
+.myText{
+    font-family: Pyidaungsu;
+    font-style: italic;
+    font-size: 14px;
+    text-indent: 30px;
+}
+.myShadowBox{
+    box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.75);
+}
